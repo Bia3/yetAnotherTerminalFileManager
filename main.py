@@ -126,7 +126,7 @@ class FileBrowser(App):
         viewbox = preview.parent
         try:
             with open(event.path, 'r') as f:
-                markup = f.read().replace('-[ ]', '- ☐').replace('-[x]', '- ☒')
+                markup = f.read().replace('- [ ]', '- ☐').replace('- [x]', '- ☒')
                 markdown = Markdown(
                     markup=markup,
                     code_theme="github-dark",
