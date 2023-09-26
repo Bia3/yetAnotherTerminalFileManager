@@ -7,9 +7,9 @@ This project is an experiment using textual as a fully fledged file manager like
 - Markdown support
 
 ToDo:
--[x] Syntax Highlighting
--[x] Markdown support
--[x] Basic image support
--[ ] PDF support
--[ ] HotKeys and inline commands
--[ ] Automatically refresh directory on system events
+- [x] Syntax Highlighting
+- [x] Markdown support
+- [x] Basic image support
+- [ ] PDF support
+- [ ] HotKeys and inline commands
+- [ ] Automatically refresh directory on system events
