@@ -1,0 +1,4 @@
+python-magic~=0.4.27
+Pillow~=10.0.1
+rich~=13.5.3
+textual~=0.38.1
